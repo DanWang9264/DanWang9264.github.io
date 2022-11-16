@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WANG DAN"
 title_separator          : "-"
 name                     : &name "WANG DAN"
-description              : &description "Post-doc at Beijing University of Technology"
+description              : &description "Post-doc at Beijing University of Technology and The Hong Kong University of Science and Technology"
 url                      : https://danwang9264.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danwang9264.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "WANG DAN"
   avatar           : "photo.jpg"
-  bio              : "Post-doc at Beijing University of Technology"
+  bio              : "Post-doc at Beijing University of Technology and The Hong Kong University of Science and Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
