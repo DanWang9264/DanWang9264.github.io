@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - ``APPL ENERG 2024`` [Economic model predictive control for building HVAC system: A comparative analysis of model-based and data-driven approaches using the BOPTEST Framework](https://www.sciencedirect.com/science/article/abs/pii/S0306261924013527). Zheng, W., **Wang, D.**, & Wang, Z.
 - ``J BUILD ENG 2024`` [Field demonstration of priority stack-based controls in an office building for demand response](https://www.sciencedirect.com/science/article/abs/pii/S235271022401283X). **Wang, D.**, Zheng, W., Li, S., Li, D., Li, S., Li, B., & Wang, Z.
 - ``SUSTAIN ENERGY TECHN 2024`` [Model predictive control for thermal comfort and energy optimization of an air handling unit system in airport terminals using occupant feedback](https://www.sciencedirect.com/science/article/abs/pii/S2213138824001863). Ma, K., **Wang, D.**, Sun, Y., Wang, W., & Gu, X.
-``J BUILD ENG 2023`` [Comparative study of model-based and model-free reinforcement learning control performance in HVAC systems](https://www.sciencedirect.com/science/article/abs/pii/S2352710223010318). Gao, C., & **Wang, D.**
+- ``J BUILD ENG 2023`` [Comparative study of model-based and model-free reinforcement learning control performance in HVAC systems](https://www.sciencedirect.com/science/article/abs/pii/S2352710223010318). Gao, C., & **Wang, D.**
 - ``ENERG BUILDINGS 2023`` [Modelling variable refrigerant flow system for control purpose](https://www.sciencedirect.com/science/article/abs/pii/S0378778823003936). **Wang, D.**, Li, M., Guo, M., Shi, Q., Zheng, C., Li, D., ... & Wang, Z.
 - ``ENERG 2023`` [Optimal load dispatch of multi-source looped district cooling systems based on energy and hydraulic performances](https://www.sciencedirect.com/science/article/abs/pii/S0360544223007570). Gao, C., **Wang, D.**, Sun, Y., Wang, W., & Zhang, X.
 - ``APPL THERM ENG 2023`` [Comparison of reinforcement learning and model predictive control for building energy system optimization](https://www.sciencedirect.com/science/article/abs/pii/S1359431123004593). **Wang, D.**, Zheng, W., Wang, Z., Wang, Y., Pang, X., & Wang, W.
@@ -75,7 +75,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: 北京能源学会“青年科技人才学术沙龙交流”活动, _基于模型预测控制的建筑需求响应技术研究_ 
+- *2024.05*: Asian University Alliance (AUA) Seminar on Smart and low carbon city, _Predicting building load flexibility using thermal-resistance and thermal-capacity model_ 
 
 # 💻 Teaching
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
