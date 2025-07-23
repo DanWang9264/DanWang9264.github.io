@@ -71,12 +71,12 @@ My research interest includes neural machine translation and computer vision. I 
 - ``HEAT TRANSF RES 2018`` [Semiempirical dimensionless correlations of a dynamic frosting process under practical conditions for an air source heat pump](https://www.dl.begellhouse.com/journals/46784ef93dddff27,53e4a5155c03f2c0,1a677fa1325c2ad7.html). **Wang, D.**, Sun, Y., Wang, W., Guo, Q., & Liu, J.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2024.12*: 北京能源学会“青年科技人才学术沙龙交流”活动, _基于模型预测控制的建筑需求响应技术研究_ 
 - *2024.05*: Asian University Alliance (AUA) Seminar on Smart and low carbon city, _Predicting building load flexibility using thermal-resistance and thermal-capacity model_ 
 
 # 💻 Teaching
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Undergraduate course*, 建筑环境测试技术, Fall Semester.
+- *Undergraduate course*, 暖通空调检测与控制, Fall Semester.
