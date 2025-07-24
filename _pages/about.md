@@ -70,6 +70,8 @@ My current research interests lie in building energy system control and flexible
 - ``RENEW ENERG 2022`` [A predictive control strategy for electrochromic glazing to balance the visual and thermal environmental requirements: Approach and energy-saving potential assessment](https://www.sciencedirect.com/science/article/abs/pii/S0960148122007406). Sun, Y., Hao, Y., **Wang, D.**, Wang, W., Deng, S., Qi, H., & Xue, P.
 - ``HEAT TRANSF RES 2018`` [Semiempirical dimensionless correlations of a dynamic frosting process under practical conditions for an air source heat pump](https://www.dl.begellhouse.com/journals/46784ef93dddff27,53e4a5155c03f2c0,1a677fa1325c2ad7.html). **Wang, D.**, Sun, Y., Wang, W., Guo, Q., & Liu, J.
 
+(Updated July 2025)
+
 # 🎖 Honors and Awards
 
 
